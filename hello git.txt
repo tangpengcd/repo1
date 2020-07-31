@@ -1,1 +1,2 @@
-1 hello git 
+1 hello git  add
+2 hello git update 
